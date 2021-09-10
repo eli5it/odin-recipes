@@ -1,0 +1,2 @@
+In this project I am aiming to shore up the basic HTML skills that I have learned in the past two day. Though my website is undoubtedly simple, I hope to use
+this simple project as a benchmark from which my future abilities can be compared to and far exceed.
